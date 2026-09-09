@@ -1,0 +1,1 @@
+console.log ("PALMEIRAS NÃO TEM MUNDIAL");
